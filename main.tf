@@ -1,7 +1,7 @@
 provider "aws" {
 region = "eu-west-2" 
-access_key = "AKIA2EMPTNDRMQM6ROXK"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 }
 
 resource "aws_vpc" "vpc1" {
